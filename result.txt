@@ -1,0 +1,36 @@
+LSTM:
+
+English
+
+  31730 out of 32853 tags correct
+    accuracy: 96.581743
+
+  54895 out of 56684 tags correct
+    accuracy: 96.843907
+
+Chinese
+
+  19725 out of 21557 tags correct
+    accuracy: 91.501600
+
+  21621 out of 23626 tags correct     
+    accuracy: 91.513587
+
+
+HMM
+
+English
+
+  31316 out of 32853 tags correct     
+    accuracy: 95.321584
+
+  54286 out of 56684 tags correct     
+    accuracy: 95.769529
+
+Chinese
+
+  18850 out of 21557 tags correct     
+    accuracy: 87.442594
+
+  20489 out of 23626 tags correct     
+    accuracy: 86.722255

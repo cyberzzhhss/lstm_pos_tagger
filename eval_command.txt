@@ -1,0 +1,19 @@
+Evaluation
+
+LSTM
+
+python3 src/score.py output/WSJ_24.words_lstm_output data/WSJ_24.pos
+python3 src/score.py output/WSJ_23.words_lstm_output data/WSJ_23.pos
+
+python3 src/score.py output/Chinese_dev.words_lstm_output data/Chinese_dev.pos
+python3 src/score.py output/Chinese_test.words_lstm_output data/Chinese_test.pos
+
+
+HMM
+
+python3 src/score.py output/WSJ_24.words_hmm_output data/WSJ_24.pos
+python3 src/score.py output/WSJ_23.words_hmm_output data/WSJ_23.pos
+
+python3 src/score.py output/Chinese_dev.words_hmm_output data/Chinese_dev.pos
+python3 src/score.py output/Chinese_test.words_hmm_output data/Chinese_test.pos
+
